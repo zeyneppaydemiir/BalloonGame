@@ -1,14 +1,13 @@
-[Ll]ibrary/
-[Tt]emp/
-[Bb]uild/
+Library/
+Temp/
+Build/
+Logs/
 Obj/
-[Bb]uilds/
-[Ll]ogs/
+.vscode/
 *.csproj
 *.unityproj
 *.sln
 *.user
-*.userprefs
 *.pidb
 *.booproj
 *.svd
@@ -16,4 +15,4 @@ Obj/
 *.mdb
 *.opendb
 *.VC.db
-
+*.DS_Store
